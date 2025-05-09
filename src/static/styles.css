@@ -135,6 +135,17 @@ button:hover {
   border: 1px solid #a5d6a7;
 }
 
+.participants-list {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: disc;
+  color: #333;
+}
+
+.participants-list li {
+  margin-bottom: 5px;
+}
+
 .error {
   background-color: #ffebee;
   color: #c62828;
